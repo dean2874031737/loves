@@ -1,0 +1,13 @@
+*{margin: 0;padding:0;box-sizing: border-box;color:#c9a2a2;}
+.all{width: 1000px; height: 800px;margin: 0 auto;}
+.form1{margin:10px 0px 10px 200px;width:500px;height:250px;border: 1px;border-collapse: collapse;}
+.length{height:25px; font-size: 22px;}
+.header{width:980px;height: 429px;}
+.center{width: 980px;height: 938px;background-image: url("../images/content_bg.jpg");}
+.step span{font-size:20px;margin:22px 0px 22px 150px;display:inline-block;}
+.step img{float:right;margin-top:14px;margin-right:380px;display: inline-block;}
+.information span{margin-left:150px; font-size:20px;display:inline-block;}
+.information .fengexian{width:450px;height: 2px; border-bottom: 1px solid #c5919b;margin: 10px 0px 0px 150px;}
+.form2{margin:10px 0px 10px 170px;width:500px;height:350px;border:1px;border-collapse: collapse;}
+.long{width:200px;font-size:15px;}
+.size{width:400px;height:130px;resize: none;}
